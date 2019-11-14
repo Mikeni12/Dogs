@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dogs</string>
+
+    <string name="hello_blank_fragment_list">Fragment Lista</string>
+    <string name="hello_blank_fragment_details">Fragment Detalles</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
